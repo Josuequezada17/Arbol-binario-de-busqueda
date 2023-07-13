@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1677269036 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\binaryfindtree\main.cpp
+	"menu.hpp"
+
+1677287957 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\binaryfindtree\menu.cpp
+	<iostream>
+	<fstream>
+	"menu.hpp"
+
+1677228303 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\binaryfindtree\name.cpp
+	<iostream>
+	"name.hpp"
+
+1677306091 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\binaryfindtree\song.cpp
+	<iostream>
+	"song.hpp"
+
+1677227544 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\binaryfindtree\song.hpp
+	<iostream>
+	<string>
+	"name.hpp"
+
+1677226665 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\binaryfindtree\name.hpp
+	<string>
+
+1677269036 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\binaryfindtree\menu.hpp
+	"btree.hpp"
+	"Song.hpp"
+
+1677309735 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\binaryfindtree\btree.hpp
+	<exception>
+	<string>
+	<fstream>
+
+1677269036 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\prog02-quezada lujan angel josue\main.cpp
+	"menu.hpp"
+
+1677269036 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\prog02-quezada lujan angel josue\menu.hpp
+	"btree.hpp"
+	"Song.hpp"
+
+1677352917 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\prog02-quezada lujan angel josue\btree.hpp
+	<exception>
+	<string>
+	<fstream>
+
+1677227544 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\prog02-quezada lujan angel josue\song.hpp
+	<iostream>
+	<string>
+	"name.hpp"
+
+1677226665 c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\prog02-quezada lujan angel josue\name.hpp
+	<string>
+
+1677309735 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\prog02-quezada lujan angel josue\menu.cpp
+	<iostream>
+	<fstream>
+	"menu.hpp"
+
+1677228303 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\prog02-quezada lujan angel josue\name.cpp
+	<iostream>
+	"name.hpp"
+
+1677306091 source:c:\users\angel\onedrive - universidad de guadalajara\ing informatica\3ro\estructura de datos ii\actividad 2\prog02-quezada lujan angel josue\song.cpp
+	<iostream>
+	"song.hpp"
+
